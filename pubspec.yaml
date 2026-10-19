@@ -1,0 +1,8 @@
+name: fundamentos_dart_flutter
+description: Ejercicios de fundamentos de Dart y configuración inicial de Flutter.
+version: 1.0.0
+publish_to: 'none'
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
